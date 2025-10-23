@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Shalom 🚀
 
+<div align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Shalom;Full+Stack+Developer;UI%2FUX+Designer)
+</div>
+
 ### 💡 Passionate Developer | Creative Designer | Lifelong Learner
 
 > “Code is not just syntax. It’s poetry in logic.”
@@ -9,15 +13,17 @@
 ## 📝 About Me
 
 I’m a student and developer at **Rwanda Polytechnic – Karongi**, passionate about creating practical digital solutions.  
+
 Currently building:
 
 <div align="center">
-  <a href="https://github.com/K-Shalom/portifolio.git" title="Digital Portfolio System">
-    <img src="https://img.shields.io/badge/Digital%20Portfolio-00A86B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/K-Shalom/One-Click-Partition-Creator-and-Storage-Manager.git" title="Local Chat App">
-    <img src="https://img.shields.io/badge/Local%20Chat%20App-007ACC?style=for-the-badge&logo=messenger&logoColor=white" />
-  </a>
+<a href="https://github.com/K-Shalom/portifolio.git" title="Digital Portfolio System">
+<img src="https://img.shields.io/badge/Digital%20Portfolio-00A86B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/K-Shalom/One-Click-Partition-Creator-and-Storage-Manager.git" title="Local Chat App">
+<img src="https://img.shields.io/badge/Local%20Chat%20App-007ACC?style=for-the-badge&logo=messenger&logoColor=white" />
+</a>
 </div>
 
 I love **clean UI/UX**, **scalable backends**, and integrating **AI tools** into web apps.
@@ -41,16 +47,6 @@ I love **clean UI/UX**, **scalable backends**, and integrating **AI tools** into
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-
-</div>
-
----
-
-## ✨ Typing SVG
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;UI%2FUX+Designer;Tech+Explorer;Lifelong+Learner)
 
 </div>
 
