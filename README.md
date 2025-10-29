@@ -100,4 +100,3 @@ I enjoy designing clean UI/UX, crafting scalable backend systems, and integratin
 
 ⭐ **"Keep building. Keep learning. Keep evolving."**
 
-*wakongeye ukagakora neza* 😉
