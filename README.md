@@ -10,18 +10,20 @@
 
 ---
 
-## 📝 About Me
+## 🧑‍💻 About Me
 
-I’m a student and developer at **Rwanda Polytechnic – Karongi**, building:  
+I’m a student and developer at **Rwanda Polytechnic – Karongi**, focused on building modern web solutions and interactive digital experiences.
 
-- **Digital Portfolio System** → [Portfolio Repo](https://github.com/K-Shalom/portifolio.git)  
-- **Local Chat App** → [Chat App Repo](https://github.com/K-Shalom/One-Click-Partition-Creator-and-Storage-Manager.git)  
+I’m currently working on:
 
-I love **clean UI/UX**, scalable backends, and integrating AI tools into web apps.
+- **Digital Portfolio System** → [Portfolio Repo](https://github.com/K-Shalom/portifolio.git)
+- **Local Chat Application** → [Chat App Repo](https://github.com/K-Shalom/One-Click-Partition-Creator-and-Storage-Manager.git)
+
+I enjoy designing clean UI/UX, crafting scalable backend systems, and integrating AI-powered functionalities into web applications.
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -42,7 +44,7 @@ I love **clean UI/UX**, scalable backends, and integrating AI tools into web app
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -54,7 +56,7 @@ I love **clean UI/UX**, scalable backends, and integrating AI tools into web app
 
 ---
 
-## 📈 Contribution Graph
+## 🧩 Contribution Activity
 
 <div align="center">
 
@@ -67,22 +69,31 @@ I love **clean UI/UX**, scalable backends, and integrating AI tools into web app
 ## 🌱 Currently Exploring
 
 - Building **Digital Portfolio Systems** (Bootstrap + PHP)  
-- Developing **Local Chat Apps** (LAN & online)  
-- Designing **UI/UX** with Figma  
-- Learning **Laravel** for scalable apps  
-- Mastering **Database Design** & Client-Server Architecture  
-- Exploring **AI integration** in web development  
-- Strengthening **Backend Development** with Python & Java  
+- Developing **Local Chat Applications** (LAN + Web)  
+- Modern **UI/UX** workflows with Figma  
+- Scalable **Laravel** development  
+- Advanced **database design** + client-server architecture  
+- Integrating **AI** into real-world web projects  
+- Strengthening backend logic with **Python & Java**
 
 ---
 
-## 📬 Connect with Me
+## 🧭 Goals
+
+- Improve system scalability & API efficiency  
+- Deploy production-ready applications  
+- Solve real problems through technology  
+- Keep learning and experimenting  
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00A86B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/K-Shalom/portifolio.git)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalom-kubwimbabazi)  
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shalomit)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-00A86B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/K-Shalom/portifolio.git)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalom-kubwimbabazi)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shalomit)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shalom_highlights)
 
 </div>
@@ -90,3 +101,5 @@ I love **clean UI/UX**, scalable backends, and integrating AI tools into web app
 ---
 
 ⭐ **"Keep building. Keep learning. Keep evolving."**
+
+*wakongeye ukagakora neza* 😉
