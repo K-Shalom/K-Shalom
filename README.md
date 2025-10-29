@@ -69,12 +69,10 @@ I enjoy designing clean UI/UX, crafting scalable backend systems, and integratin
 ## 🌱 Currently Exploring
 
 - Building **Digital Portfolio Systems** (Bootstrap + PHP)
-- Developing **Local Chat Applications** (LAN + Web)
+- Developing **One Click Applications** (LAN + JAVA)
 - Modern **UI/UX** workflows with Figma
-- Scalable **Laravel** development
+- Scalable **PHP** development
 - Advanced **database design** + client-server architecture
-- Integrating **AI** into real-world web projects
-- Strengthening backend logic with **Python & Java**
 
 ---
 
