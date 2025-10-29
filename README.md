@@ -17,7 +17,7 @@ I’m a student and developer at **Rwanda Polytechnic – Karongi**, focused on 
 I’m currently working on:
 
 - **Digital Portfolio System** → [Portfolio Repo](https://github.com/K-Shalom/portifolio.git)
-- **Local Chat Application** → [Chat App Repo](https://github.com/K-Shalom/One-Click-Partition-Creator-and-Storage-Manager.git)
+- **One Click creator Partition Application** → [App Repo](https://github.com/K-Shalom/One-Click-Partition-Creator-and-Storage-Manager.git)
 
 I enjoy designing clean UI/UX, crafting scalable backend systems, and integrating AI-powered functionalities into web applications.
 
