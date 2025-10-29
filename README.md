@@ -48,9 +48,9 @@ I enjoy designing clean UI/UX, crafting scalable backend systems, and integratin
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-Shalom&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Shalom&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=K-Shalom&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Shalom&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=K-Shalom&show_icons=true&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Shalom&layout=compact&theme=radical&hide_border=true" height="165" />
 
 </div>
 
@@ -68,22 +68,22 @@ I enjoy designing clean UI/UX, crafting scalable backend systems, and integratin
 
 ## 🌱 Currently Exploring
 
-- Building **Digital Portfolio Systems** (Bootstrap + PHP)  
-- Developing **Local Chat Applications** (LAN + Web)  
-- Modern **UI/UX** workflows with Figma  
-- Scalable **Laravel** development  
-- Advanced **database design** + client-server architecture  
-- Integrating **AI** into real-world web projects  
+- Building **Digital Portfolio Systems** (Bootstrap + PHP)
+- Developing **Local Chat Applications** (LAN + Web)
+- Modern **UI/UX** workflows with Figma
+- Scalable **Laravel** development
+- Advanced **database design** + client-server architecture
+- Integrating **AI** into real-world web projects
 - Strengthening backend logic with **Python & Java**
 
 ---
 
 ## 🧭 Goals
 
-- Improve system scalability & API efficiency  
-- Deploy production-ready applications  
-- Solve real problems through technology  
-- Keep learning and experimenting  
+- Improve system scalability & API efficiency
+- Deploy production-ready applications
+- Solve real problems through technology
+- Keep learning and experimenting
 
 ---
 
