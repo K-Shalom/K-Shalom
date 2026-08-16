@@ -2,14 +2,14 @@
 
 ### Full Stack Developer | UI/UX Designer | Software Engineering Student
 
-I'm a passionate software developer from Rwanda 🇷🇼 who enjoys building scalable applications, creating intuitive user experiences, and solving real-world problems through technology.
+I'm a software developer from Rwanda 🇷🇼 focused on building practical software, designing intuitive user experiences, and solving real-world problems through technology.
 
 * 🎓 Advanced Diploma in Information Technology
 * 🏫 Rwanda Polytechnic – Karongi College
 * 💻 Full Stack Developer
 * 🎨 UI/UX Designer
-* 🌱 Currently learning System Design, Cloud Deployment, and Advanced React
-* 🚀 Building modern software solutions for businesses and communities
+* 🌍 Rwanda 🇷🇼
+* 🚀 Building software solutions for businesses, institutions, and communities
 
 ---
 
@@ -19,22 +19,18 @@ I'm a passionate software developer from Rwanda 🇷🇼 who enjoys building sca
 public class Shalom {
 
     String name = "Shalom KUBWIMBABAZI";
-    String regNumber = "24RP00257";
+    String github = "K-Shalom";
     String institution = "Rwanda Polytechnic – Karongi College";
     String role = "Full Stack Developer & UI/UX Designer";
     String location = "Rwanda 🇷🇼";
 
-    String[] currentlyBuilding = {
-        "SmartBiz — Smart Small Business Management System",
-        "Chattova — Modern Communication Platform",
-        "Digital Portfolio System",
-        "One Click Partition Creator & Storage Manager"
-    };
-
-    String[] learning = {
+    String[] interests = {
+        "Backend Development",
+        "Frontend Development",
         "System Design",
+        "UI/UX Design",
         "Cloud Deployment",
-        "React Advanced Patterns"
+        "Software Architecture"
     };
 
     String motto = "Code is not just syntax. It's poetry written in logic.";
@@ -43,87 +39,123 @@ public class Shalom {
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-# 🏪 SmartBiz — Smart Small Business Management System
+### 🏪 SmartBiz — Smart Small Business Management System
 
-A full-stack, production-ready business management platform designed to help small businesses manage their daily operations efficiently.
+A full-stack business management platform designed to help small businesses manage their daily operations.
 
-### Features
+**Backend:** Java 21, Spring Boot, Spring Security, JPA/Hibernate, MySQL, JWT, Maven
 
-* 🔐 JWT Authentication & Authorization
-* 👥 Role-Based Access Control
-* 📦 Product Management
-* 🛍️ Service Management
-* 👤 Client Management
-* 💰 Sales Tracking
-* 📉 Expense Tracking
-* 📊 Analytics Dashboard
-* 📄 PDF Report Generation
-* 📱 Responsive Design
+**Frontend:** HTML5, CSS3, Bootstrap, JavaScript, Fetch API, Chart.js
 
-### Technology Stack
+**Features include:**
 
-| Layer      | Technology                                       |
-| ---------- | ------------------------------------------------ |
-| Backend    | Spring Boot 3.5, Java 21, Spring Security 6, JWT |
-| Frontend   | HTML5, Bootstrap 5, JavaScript, Chart.js         |
-| Database   | MySQL 8, JPA, Hibernate                          |
-| Reports    | iText PDF                                        |
-| Deployment | Netlify, Render                                  |
+* 🔐 JWT authentication
+* 👥 Role-based access control
+* 📦 Product management
+* 🛍️ Service management
+* 👤 Client management
+* 💰 Sales management
+* 📉 Expense tracking
+* 📊 Dashboard analytics
+* 📄 PDF report generation
+
+🔗 [Backend Repository](https://github.com/K-Shalom/Smart-Small-BusinessManagement-Backend)
+
+🔗 [Frontend Repository](https://github.com/K-Shalom/Smart-Small-BusinessManagement-Frontend)
 
 ---
 
-## 🛠️ Tech Stack
+### 💾 One Click Partition Creator & Storage Manager
+
+A Java-based desktop application focused on disk partition and storage management.
+
+🔗 [Repository](https://github.com/K-Shalom/One-Click-Partition-Creator-and-Storage-Manager)
+
+---
+
+### 🎓 CEP RP Karongi Website
+
+A web platform developed for CEP at Rwanda Polytechnic – Karongi College.
+
+🔗 [Repository](https://github.com/K-Shalom/cep-rp-karongi-website)
+
+---
+
+### 🌐 Personal Portfolio
+
+My personal portfolio and developer website.
+
+🔗 [Repository](https://github.com/K-Shalom/Portfolio)
+
+---
+
+### 📚 Course Evaluation Survey
+
+A web-based course evaluation and survey application.
+
+🔗 [Repository](https://github.com/K-Shalom/Course-Evaluation-Survey-Web-Application)
+
+---
+
+## 🛠️ Technologies
 
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,php,html,css" />
 </p>
 
-### Backend & Frameworks
+### Frameworks & Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
-### Frontend & UI
+### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap" />
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,oracle" />
 </p>
 
-### Tools & DevOps
+### Tools & Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
 </p>
 
 ---
 
-## 📂 Projects
+## 📂 More Projects
 
-| Project                        | Description                              | Tech Stack                   |
-| ------------------------------ | ---------------------------------------- | ---------------------------- |
-| 🏪 SmartBiz                    | Small Business Management System         | Spring Boot, Java, MySQL     |
-| 🌐 Chattova                    | Real-Time Communication Platform         | Flutter, Node.js, PostgreSQL |
-| 💾 One Click Partition Creator | Disk Partition & Storage Management Tool | Java Swing                   |
-| 🎨 Digital Portfolio           | Personal Portfolio Website               | HTML, CSS, JavaScript        |
-| 🎓 Student Management System   | Academic Management Application          | Java, Oracle Database        |
+| Repository                                                                                          | Description                           |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| 🏪 [SmartBiz Backend](https://github.com/K-Shalom/Smart-Small-BusinessManagement-Backend)           | Business management backend           |
+| 🖥️ [SmartBiz Frontend](https://github.com/K-Shalom/Smart-Small-BusinessManagement-Frontend)        | SmartBiz web interface                |
+| 💾 [Partition Creator](https://github.com/K-Shalom/One-Click-Partition-Creator-and-Storage-Manager) | Disk partition and storage management |
+| 🌐 [Portfolio](https://github.com/K-Shalom/Portfolio)                                               | Personal portfolio                    |
+| 🎓 [CEP Website](https://github.com/K-Shalom/cep-rp-karongi-website)                                | CEP RP Karongi website                |
+| 📋 [Course Evaluation](https://github.com/K-Shalom/Course-Evaluation-Survey-Web-Application)        | Course evaluation platform            |
+| 🎓 [University Management](https://github.com/K-Shalom/UNIVERSITY-MANAGEMENT-SYSTEM-GROUP-J)        | University management system          |
+| 📚 [Student System](https://github.com/K-Shalom/student_system)                                     | Student management application        |
+| ⛽ [Fuel Station Management](https://github.com/K-Shalom/Fuel-Station-Management-System)             | Fuel station management system        |
+| 📋 [Task Management](https://github.com/K-Shalom/Task-Management-System)                            | Task management application           |
+| 🔎 [QueryMe Backend](https://github.com/K-Shalom/QueryMe-backend)                                   | Backend application                   |
+| 🌐 [Online Transfer](https://github.com/K-Shalom/onlinetransfer)                                    | Online transfer project               |
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=K-Shalom&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=K-Shalom&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Shalom&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -141,44 +173,31 @@ A full-stack, production-ready business management platform designed to help sma
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
-[![Shalom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=K-Shalom\&theme=tokyo-night)](https://github.com/K-Shalom)
-
----
-
-## 🎯 2026 Goals
-
-| Goal                                                    | Status      |
-| ------------------------------------------------------- | ----------- |
-| ✅ Build & Deploy a Full-Stack Production App (SmartBiz) | Done        |
-| ✅ Master Spring Boot + Spring Security + JWT            | Done        |
-| ✅ Deploy Applications on Cloud Platforms                | Done        |
-| 🔄 Contribute to Open Source Projects                   | In Progress |
-| 🔄 Learn React + TypeScript                             | In Progress |
-| 🔄 Improve System Design Skills                         | In Progress |
-| ⏳ Build SmartBiz Version 2.0                            | Planned     |
-| ⏳ Earn AWS / Azure Certification                        | Planned     |
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K-Shalom&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 🌟 Current Focus
+## 🔥 What I'm Working On
 
-```text
-Backend Development      ██████████████░░░░ 85%
-Frontend Development     ████████████░░░░░░ 75%
-UI/UX Design             █████████████░░░░░ 80%
-Cloud Computing          ███████░░░░░░░░░░░ 40%
-System Design            ████████░░░░░░░░░░ 50%
-```
+* 🏗️ Building and improving full-stack applications
+* ⚙️ Improving backend architecture and API design
+* 🎨 Creating better UI/UX experiences
+* ☁️ Learning cloud deployment and infrastructure
+* 🧠 Improving system design skills
+* 🌐 Exploring modern frontend development
+* 🤝 Looking for opportunities to contribute to meaningful open-source projects
 
 ---
 
-## 📫 Connect With Me
+## 📌 GitHub Profile
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/K-Shalom">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-K--Shalom-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
